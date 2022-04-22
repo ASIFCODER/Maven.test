@@ -16,7 +16,7 @@ public class GurulogInPage extends Baseclass {
 		sendkeys(g.getPassword(), passdata);
 		click(g.getLogin());
 		QuitBrowser();
-		System.out.println("THIS IS KHAN");
+		System.out.println("THIS IS king khan........");
 
 	}
 }
